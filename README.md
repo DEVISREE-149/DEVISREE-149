@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DEVISREE
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Javascript.
 - 📫 You can reach me via sri1491999@gmail.com
 
 <!---
