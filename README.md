@@ -53,25 +53,6 @@ todo-list/
 ├── README.md
 └── LICENSE
 ```
-
----
-
-## 🎯 How to Run
-
-1. Clone the repository.
-
-```
-git clone https://github.com/your-username/todo-list.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your web browser.
-
-No additional installation or dependencies are required.
-
----
-
 ## 📸 Screenshots
 
 Add screenshots of your application here.
