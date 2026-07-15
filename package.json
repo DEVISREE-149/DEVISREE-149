@@ -1,0 +1,11 @@
+{
+  "name": "D-task",
+  "version": "1.0.0",
+  "description": "Premium Todo Dashboard Application",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx -y http-server . -p 8080"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
